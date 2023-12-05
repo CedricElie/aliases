@@ -1,4 +1,4 @@
-# aliases
+# Usefull Aliases
 Simple records of useful bash aliases
 
 # kubernetes aliases
