@@ -1,22 +1,22 @@
 # Usefull Aliases
 Simple records of useful bash aliases
 
-# kubernetes aliases
+## kubernetes aliases
 
->## General Aliases
+>### General Aliases
 ```
 alias k='kubectl'
 alias ks='kubectl -n kube-system'
 alias kdesc='kubectl describe'
 ```
 
->## Create Resources
+>### Create Resources
 ```
 alias kcf='kubectl create -f'
 alias kaf='kubectl apply -f'
 ```
 
->## Get Resources
+>### Get Resources
 ```
 alias kgn='kubectl get nodes'
 alias kgp='kubectl get pods'
